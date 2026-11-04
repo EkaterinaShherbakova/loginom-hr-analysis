@@ -7,9 +7,11 @@
 **Инструменты:** Loginom, H2O, Colab (AutoML).
 
 **Ссылка на выполненный проект Loginom:** https://drive.google.com/file/d/1zZ3NsNvcwLQ3TJJmz55hh_tGxccx8MYC/view?usp=sharing
+
 **Ссылка на Colab (дерево решений и AutoML):** https://colab.research.google.com/drive/1wOgKEUcY1tIby3reKkoBaNL_Zs-mlvVY?usp=sharing
 
 **Публичная ссылка на интерактивный дашборд Yandex DataLens:** https://datalens.yandex/z9snl4ujnjtoi?_share_link=public
+
 **Ссылка на дашборд в Preset:** https://a5d376f4.us1a.app.preset.io/superset/dashboard/p/W1Lqlgqen4J/
 
 
