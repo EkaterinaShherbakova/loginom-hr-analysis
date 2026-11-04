@@ -4,7 +4,7 @@
 Учебный проект по анализу HR-данных (1000 сотрудников) с использованием платформы Loginom. 
 Цель: провести очистку данных, построить OLAP-кубы для анализа текучести кадров и ФОТ, а также использовать методы машинного обучения.
 
-**Инструменты:** Loginom, H2O, Colab (AutoML).
+**Инструменты:** Loginom, Colab (AutoML), Preset.
 
 **Ссылка на выполненный проект Loginom:** https://drive.google.com/file/d/1zZ3NsNvcwLQ3TJJmz55hh_tGxccx8MYC/view?usp=sharing
 
